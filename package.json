@@ -1,0 +1,15 @@
+{
+  "name": "bullbear-backend",
+  "version": "1.0.0",
+  "description": "Bull Bear trading backend",
+  "main": "server2.js",
+  "scripts": {
+    "start": "node server2.js"
+  },
+  "dependencies": {
+    "ws": "^8.17.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
